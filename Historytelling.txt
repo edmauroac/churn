@@ -1,0 +1,33 @@
+1 - AUDIÊNCIA
+- Bancada da Tera e alunos
+- É desejado verificar o nível de conhecimento técnico, e a aderência aos ensinamentos do curso, por parte dos integrantes do grupo
+
+2 - FORMATO
+- Através de ferramentas gráficas, majoritariamente (PowerBI, Streamlit etc)
+- Adequação do formato à jornada do heroi
+- Tom técnico, porém suave, simples e objetivo
+
+3 - CONTEXTO
+- Retomar o conceito de Churn, de maneira a reavivar, ou até mesmo introduzir, para a audiência
+- Enfatizar a importância do Churn no contexto de mercado atual, e por quê a empresa deve monitorá-lo (ganhos e perdas)
+
+4 - STORYBOARDING
+- Explicar sobre o banco de dados, como foi feita a filtragem e análise. 
+- Conclusões, possíveis soluções 
+
+5 - INSIGHTS
+- Traçar o perfil de clientes que estariam mais inclinados ao cancelamento (um perfil de cancelamento seria alguém com cerca de 44 anos, com saldo bancário baixo ou zerado, com baixo score e muitos produtos financeiros)
+
+6 - PROVE SEUS PONTOS
+- Validar a solução, e indicar métricas para cotrole
+- Lançar mão de ferramentas matemáticas para fundamentar a ferramenta (por quê ela é boa e deve ser usada?)
+- Indicar o resultado esperado, e o ganho a ser obtido
+
+7 - CALL TO ACTION
+- Melhora dos resultados da empresa
+- Use a ferramenta para melhorar os resultados
+- Dar propostas de solução ("pitacos", sugerir KPIs, LTV)
+
+
+->DICA:
+- Fazer ensaio cronometrado!! (10~15 minutos)
